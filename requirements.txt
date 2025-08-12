@@ -1,6 +1,6 @@
 # requirements.txt
 
-tensorflow>=2.11
+tensorflow
 numpy
 pillow
 streamlit
