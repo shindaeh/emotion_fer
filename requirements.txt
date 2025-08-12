@@ -1,0 +1,9 @@
+# requirements.txt
+
+tensorflow>=2.11
+numpy
+opencv-python
+pillow
+streamlit>=1.26
+matplotlib
+scikit-learn
