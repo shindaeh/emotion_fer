@@ -4,6 +4,7 @@ tensorflow>=2.11
 numpy
 opencv-python
 pillow
-streamlit>=1.26
+streamlit
 matplotlib
 scikit-learn
+opencv-python-headless
